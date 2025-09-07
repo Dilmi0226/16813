@@ -1,16 +1,16 @@
-Student Database Mini Project (s16813)
+#**Student Database Mini Project (s16813)**
 
-Description:
-A Java-based project to manage a student database with CRUD (Create, Read, Update, Delete) functions using Java and MySQL.
+##Description:
+A Java-based project to manage a student database with CRUD (Create, Read, Update, Delete) functions using Java and MySQL.  
 
-Requirements:
+##Requirements:  
 
 MySQL database
 Java 8+ (IntelliJ)
 
 
-Setup:
+Setup:  
 
-Install MySQL → mysql.com/downloads
-Set MySQL password
-Create a new database for the project
+Install MySQL → mysql.com/downloads  
+Set MySQL password  
+Create a new database for the project  
