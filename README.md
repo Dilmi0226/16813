@@ -11,6 +11,6 @@ A Java-based project to manage a student database with CRUD (Create, Read, Updat
 
 ## Setup:  
 
-1.Install MySQL → mysql.com/downloads  
+1.Install MySQL → https://dev.mysql.com/downloads/   
 2.Set MySQL password  
 3.Create a new database for the project  
