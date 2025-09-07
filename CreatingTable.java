@@ -11,7 +11,7 @@ public class CreatingTable {
 
             String sql = "CREATING TABLE students (" +
                     "Index INT PRIMARY KEY AUTO_INCREMENT," +
-                    "Name VARCHAR(50)," + "Markas DECIMAL(3,2)," + "Course(50),"+
+                    "Name VARCHAR(50)," + "Marks DECIMAL(3,2)," + "Course(50),"+
                     "Age INT)";
 
             stmt.executeUpdate(sql);
@@ -21,3 +21,4 @@ public class CreatingTable {
         }
     }
 }
+
