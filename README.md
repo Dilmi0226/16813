@@ -5,7 +5,7 @@ A Java-based project to manage a student database with CRUD (Create, Read, Updat
 
 ##Requirements:  
 
-MySQL database
+MySQL database  
 Java 8+ (IntelliJ)
 
 
